@@ -1,4 +1,4 @@
-# 📦 Supply Chain Analytics Dashboard — Power BI
+# 📦 Supply Chain Analytics Dashboard | Power BI
 
 **Supply Chain Report | James Lai | 2026**
 
