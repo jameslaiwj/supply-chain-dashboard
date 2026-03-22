@@ -30,6 +30,8 @@ The Supplier Segmentation Matrix plots __profit margin against defect rate__. Ea
 | The Reliable Utility | Low | Low | Efficient but low margin, commodity items | Automate |
 | The Strategic Star | High | Low | Your best suppliers, high value with consistent quality | Expand and protect |
 
+![Supplier Segmentation Matrix](Segmentation_Matrix_1.jpg)
+
 ## 🛠️ Built With
 
 Power BI · DAX · Power Query
